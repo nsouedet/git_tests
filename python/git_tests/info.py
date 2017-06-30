@@ -3,7 +3,7 @@
 # Current version
 version_major = 1
 version_minor = 1
-version_micro = 13
+version_micro = 14
 version_extra = ""
 
 # The following variables are here for backward compatibility in order to
