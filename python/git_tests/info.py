@@ -17,4 +17,20 @@ _version_extra = version_extra
 __version__ = "{0}.{1}.{2}{3}".format(
     version_major, version_minor, version_micro, version_extra)
 
+# Main setup parameters
+NAME = "git_tests"
+ORGANISATION = "CEA"
+#MAINTAINER = ""
+#MAINTAINER_EMAIL = "antoine.grigis@cea.fr"
+#DESCRIPTION = description
+#LONG_DESCRIPTION = long_description
+#URL = ""
+#DOWNLOAD_URL = ""
+LICENSE = "CeCILL-B"
+#CLASSIFIERS = CLASSIFIERS
+AUTHOR = "BrainVISA team"
+AUTHOR_EMAIL = "support@brainvisa.info"
+PLATFORMS = "OS Independent"
+ISRELEASE = ""
+VERSION = __version__
 
